@@ -1,18 +1,18 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
-import Navbar from './components/navbar';
+import './App.css'
+import React,{useState,useEffect} from 'react'
+import NavBar from "./components/navBar/NavBar.jsx"
+import ItemListContainer from './components/ItemListContainer/ItemListContainer.jsx'
+
 
 function App() {
   return (
-    <div className="App">
-      <Navbar/>
-      <button className="btn btn-primary btn-success">Exito! </button>
-      <header>
-        <h1>Tierra Santa Shop</h1>
-      </header>
-    </div>
-
-  );
+    <>
+      <NavBar/>
+      <ItemListContainer/>
+    </>
+    )
 }
 
-export default App;
+export default App
+
+
