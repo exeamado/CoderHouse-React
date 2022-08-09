@@ -3,56 +3,60 @@
     "id": 1,
     "modelo": "Ka",
     "marca": "Ford",
+    "category":"5p",
     "precio": "100000",
+    "image":"../img/ford-ka.jpg",
+    "description":"Aliquip id laboris est laborum aute voluptate.Proident magna occaecat consequat sit id sunt cupidatat magna duis est excepteur amet nisi. Pariatur est irure non sit cillum adipisicing aliquip voluptate.  Amet anim officia fugiat quis Lorem id labore quis nostrud ipsum quis quis commodo.Irure ut in minim aliquip ea sint non reprehenderit. Consectetur reprehenderit proident dolore ullamco.",
     "stock":10
   },
   {
     "id": 2,
     "modelo": "cruze",
     "marca": "chevrolete",
+    "category":"sedan",
     "precio": "150000",
+    "image":"../img/chevrolet-cruze.jpg",
+    "description":"Aliquip id laboris est laborum aute voluptate.Proident magna occaecat consequat sit id sunt cupidatat magna duis est excepteur amet nisi. Pariatur est irure non sit cillum adipisicing aliquip voluptate.  Amet anim officia fugiat quis Lorem id labore quis nostrud ipsum quis quis commodo.Irure ut in minim aliquip ea sint non reprehenderit. Consectetur reprehenderit proident dolore ullamco.",
     "stock":10
   },
   {
     "id": 3,
     "modelo": "palio",
     "marca": "Fiat",
+    "category":"5p",
     "precio": "50000",
+    "image":"../img/fiat-palio.jpg",
+    "description":"Aliquip id laboris est laborum aute voluptate.Proident magna occaecat consequat sit id sunt cupidatat magna duis est excepteur amet nisi. Pariatur est irure non sit cillum adipisicing aliquip voluptate.  Amet anim officia fugiat quis Lorem id labore quis nostrud ipsum quis quis commodo.Irure ut in minim aliquip ea sint non reprehenderit. Consectetur reprehenderit proident dolore ullamco.",
     "stock":10
   },
   {
     "id": 4,
     "modelo": "clio",
     "marca": "renault",
+    "category":"5p",
     "precio": "80000",
+    "image":"../img/renault.clio.jpg",
+    "description":"Aliquip id laboris est laborum aute voluptate.Proident magna occaecat consequat sit id sunt cupidatat magna duis est excepteur amet nisi. Pariatur est irure non sit cillum adipisicing aliquip voluptate.  Amet anim officia fugiat quis Lorem id labore quis nostrud ipsum quis quis commodo.Irure ut in minim aliquip ea sint non reprehenderit. Consectetur reprehenderit proident dolore ullamco.",
     "stock":10
   },
   {
     "id": 5,
     "modelo": "jurney",
     "marca": "dodge",
+    "category":"suv",
     "precio": "6098000",
+    "image":"../img/dodge-journey.jpg",
+    "description":"Aliquip id laboris est laborum aute voluptate.Proident magna occaecat consequat sit id sunt cupidatat magna duis est excepteur amet nisi. Pariatur est irure non sit cillum adipisicing aliquip voluptate.  Amet anim officia fugiat quis Lorem id labore quis nostrud ipsum quis quis commodo.Irure ut in minim aliquip ea sint non reprehenderit. Consectetur reprehenderit proident dolore ullamco.",
     "stock":10
   },
   {
     "id": 6,
     "modelo": "3008",
     "marca": "peugeot",
+    "category":"suv",
     "precio": "400000",
+    "image":"../img/peugeot-3008.jpg",
+    "description":"Aliquip id laboris est laborum aute voluptate.Proident magna occaecat consequat sit id sunt cupidatat magna duis est excepteur amet nisi. Pariatur est irure non sit cillum adipisicing aliquip voluptate.  Amet anim officia fugiat quis Lorem id labore quis nostrud ipsum quis quis commodo.Irure ut in minim aliquip ea sint non reprehenderit. Consectetur reprehenderit proident dolore ullamco.",
     "stock":10
-  },
-  {
-    "id": 7,
-    "modelo": "sirocco",
-    "marca": "VW",
-    "precio": "678000",
-    "stock":10
-  },
-  {
-    "id": 8,
-    "modelo": "siena",
-    "marca": "fiat",
-    "precio": "5678900",
-    "stock":10
-  }
-]
+  }]
+ 
